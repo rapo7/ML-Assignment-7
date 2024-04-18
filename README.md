@@ -2,7 +2,7 @@
 
 ## clone this repo 
 
-`git clone`
+`git clone https://github.com/rapo7/ML-Assignment-7.git`
 
 ## create a virtualenv 
 
